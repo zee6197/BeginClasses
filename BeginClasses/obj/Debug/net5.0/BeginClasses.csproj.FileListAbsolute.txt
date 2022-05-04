@@ -1,0 +1,16 @@
+C:\Users\zbg17\Desktop\repos\BeginClasses\BeginClasses\bin\Debug\net5.0\BeginClasses.exe
+C:\Users\zbg17\Desktop\repos\BeginClasses\BeginClasses\bin\Debug\net5.0\BeginClasses.deps.json
+C:\Users\zbg17\Desktop\repos\BeginClasses\BeginClasses\bin\Debug\net5.0\BeginClasses.runtimeconfig.json
+C:\Users\zbg17\Desktop\repos\BeginClasses\BeginClasses\bin\Debug\net5.0\BeginClasses.runtimeconfig.dev.json
+C:\Users\zbg17\Desktop\repos\BeginClasses\BeginClasses\bin\Debug\net5.0\BeginClasses.dll
+C:\Users\zbg17\Desktop\repos\BeginClasses\BeginClasses\bin\Debug\net5.0\BeginClasses.pdb
+C:\Users\zbg17\Desktop\repos\BeginClasses\BeginClasses\obj\Debug\net5.0\BeginClasses.csproj.AssemblyReference.cache
+C:\Users\zbg17\Desktop\repos\BeginClasses\BeginClasses\obj\Debug\net5.0\BeginClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbg17\Desktop\repos\BeginClasses\BeginClasses\obj\Debug\net5.0\BeginClasses.AssemblyInfoInputs.cache
+C:\Users\zbg17\Desktop\repos\BeginClasses\BeginClasses\obj\Debug\net5.0\BeginClasses.AssemblyInfo.cs
+C:\Users\zbg17\Desktop\repos\BeginClasses\BeginClasses\obj\Debug\net5.0\BeginClasses.csproj.CoreCompileInputs.cache
+C:\Users\zbg17\Desktop\repos\BeginClasses\BeginClasses\obj\Debug\net5.0\BeginClasses.dll
+C:\Users\zbg17\Desktop\repos\BeginClasses\BeginClasses\obj\Debug\net5.0\refint\BeginClasses.dll
+C:\Users\zbg17\Desktop\repos\BeginClasses\BeginClasses\obj\Debug\net5.0\BeginClasses.pdb
+C:\Users\zbg17\Desktop\repos\BeginClasses\BeginClasses\obj\Debug\net5.0\BeginClasses.genruntimeconfig.cache
+C:\Users\zbg17\Desktop\repos\BeginClasses\BeginClasses\obj\Debug\net5.0\ref\BeginClasses.dll
